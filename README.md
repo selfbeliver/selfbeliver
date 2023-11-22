@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @selfbeliver
-- 👀 I’m interested in codind on application
+- 👀 I’m interested in coding on application
   
 - 🌱 I’m currently learning computer science engineering
 - 💞️ I’m looking to collaborate on ...
